@@ -2,13 +2,13 @@
 
 ALCOA+ based data integrity monitoring dashboard for pharmaceutical QC laboratory records.
 
-##Project Overview
+## Project Overview
 
 This project evaluates data integrity risks in pharmaceutical Quality Control laboratory records using the ALCOA+ principles.
 
 A dashboard was developed to monitor missing data, corrections, and documentation inconsistencies that may indicate potential compliance risks.
 
-##Business Problem
+## Business Problem
 
 Regulatory agencies require pharmaceutical laboratories to maintain data integrity following ALCOA+ principles.
 
@@ -16,29 +16,30 @@ Manual documentation processes can introduce risks such as missing entries, undo
 
 A monitoring system is required to detect potential data integrity issues proactively.
 
-##Objectives
+## Objectives
 
 - Evaluate QC records for potential data integrity risks
 - Monitor missing data entries
 - Track correction frequency in laboratory records
 - Assess overall data integrity risk rate
 
-##Tools Used
+## Tools Used
 
 - Microsoft Excel
 - Data Integrity Metrics
 - Dashboard Visualization
   
-##Key Insights
+## Key Insights
 
 - Identification of missing documentation entries
 - Monitoring of record corrections
 - Data integrity risk scoring
-- 
-##Business Impact
+  
+## Business Impact
 
 Improved data monitoring can help laboratories strengthen regulatory compliance and ensure adherence to ALCOA+ data integrity principles.
 
-![Dashboard]
-Full case study available in the PDF below. Download to explore the complete analysis and insights
-(Pharma_QC_Data_Integrity_Dashboard_Preview.png)
+## Dashboard Preview
+Full case study available in the PDF below.
+Download to explore the complete analysis and insights
+![Dashboard](Pharma_QC_Data_Integrity_Dashboard_Preview.png)
