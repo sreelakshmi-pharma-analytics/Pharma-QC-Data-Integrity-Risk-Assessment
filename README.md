@@ -38,3 +38,7 @@ A monitoring system is required to detect potential data integrity issues proact
 ##Business Impact
 
 Improved data monitoring can help laboratories strengthen regulatory compliance and ensure adherence to ALCOA+ data integrity principles.
+
+![Dashboard]
+Full case study available in the PDF below. Download to explore the complete analysis and insights.
+(Pharma_QC_Data_Integrity_Dashboard_Preview.png)
