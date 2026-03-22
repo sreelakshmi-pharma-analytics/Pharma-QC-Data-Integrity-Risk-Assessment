@@ -1,4 +1,4 @@
-# Pharma-QC-Data-Integrity-Risk-Assessment (ALCOA+ Compliance)
+# Pharmaceutical QC Data Integrity Risk Assessment (ALCOA+ Compliance)
 
 ALCOA+ based data integrity monitoring dashboard for pharmaceutical QC laboratory records.
 
