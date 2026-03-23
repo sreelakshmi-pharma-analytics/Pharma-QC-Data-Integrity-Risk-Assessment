@@ -42,4 +42,5 @@ Improved data monitoring can help laboratories strengthen regulatory compliance 
 ## Dashboard Preview
 Full case study available in the PDF below.
 Download to explore the complete analysis and insights
+
 ![Dashboard](Pharma_QC_Data_Integrity_Dashboard_Preview.png)
